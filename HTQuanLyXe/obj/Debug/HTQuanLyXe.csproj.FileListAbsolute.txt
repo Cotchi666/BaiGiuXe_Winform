@@ -1,0 +1,187 @@
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe.config
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\bin\Debug\HTQuanLyXe.pdb
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.exe
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.pdb
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+E:\java_winform\btl\HTQuanLyXe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe.config
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.exe
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.pdb
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe
+E:\java_winform\btl\HTQuanLyXe - Copy\HTQuanLyXe\bin\Debug\HTQuanLyXe.pdb
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe.config
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.exe
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.pdb
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.pdb
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+C:\Users\TRINH\Desktop\btl (1)\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\Download\btl\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe.config
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.exe
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.pdb
+D:\Download\btl\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.exe
+D:\Download\btl\btl\HTQuanLyXe\bin\Debug\HTQuanLyXe.pdb
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+D:\Download\btl\btl\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+D:\Download\btl\btl\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe.config
+D:\Study\BTLwin\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe.config
+D:\Study\BTLwin\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe
+D:\Study\BTLwin\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.pdb
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.exe
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.pdb
+D:\Study\BTLwin\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.dangkyvethang.resources
+D:\Study\ok\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe.config
+D:\Study\ok\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.exe
+D:\Study\ok\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.pdb
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.dangkyvethang.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+D:\Study\ok\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe
+D:\Study\ok\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.pdb
+D:\Study\ok\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.danhsachvethang.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe.config
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.exe
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.pdb
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.pdb
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csprojResolveAssemblyReference.cache
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.dangkyvethang.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.danhsachvethang.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+D:\Study\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.Cache
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe.config
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.exe
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\bin\Debug\HeTthongQuanLyXe.pdb
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.AssemblyReference.cache
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.admin.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.dsadmin.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.ADMIN.Thaydoithongtin.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.dangnhap.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.formmain.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.baixe.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.dangkyvethang.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachve.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.quanlyxe.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.danhsachxe.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thanhtoan.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.thaydoithongtin.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.QUANLYXE.themve.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.danhsachvethang.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.thongke.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.hientai.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.GUI.THONGKE.xedagui.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.Properties.Resources.resources
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.GenerateResource.cache
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HTQuanLyXe.csproj.CoreCompileInputs.cache
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.exe
+D:\MyProject\WINFORM\BaiGiuXe\BTLwin-Hệ thống Quản Lý Xe\HTQuanLyXe\obj\Debug\HeTthongQuanLyXe.pdb
